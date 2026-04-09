@@ -1,0 +1,17 @@
+{
+  "provider_id": "together",
+  "name": "Together AI",
+  "primary_model": "llama-3",
+  "models": [
+    "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "mistralai/Mixtral-8x7B"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:17.866395Z"
+}
